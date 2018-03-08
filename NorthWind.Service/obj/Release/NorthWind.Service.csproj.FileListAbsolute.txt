@@ -1,0 +1,11 @@
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\NorthWind.Service.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\NorthWind.Service.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\NorthWind.DATA.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\NorthWind.Model.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\EntityFramework.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\NorthWind.DATA.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\NorthWind.Model.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\bin\Release\EntityFramework.xml
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\obj\Release\NorthWind.Service.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\obj\Release\NorthWind.Service.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.Service\obj\Release\NorthWind.Service.pdb

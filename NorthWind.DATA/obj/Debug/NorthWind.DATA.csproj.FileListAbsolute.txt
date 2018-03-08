@@ -1,0 +1,12 @@
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\NorthWind.DATA.dll.config
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\NorthWind.DATA.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\NorthWind.DATA.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\NorthWind.Model.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\NorthWind.Model.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\obj\Debug\NorthWind.DATA.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\obj\Debug\NorthWind.DATA.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\NorthWindWebAPI\NorthWind.DATA\obj\Debug\NorthWind.DATA.pdb
