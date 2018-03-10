@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
@@ -83,6 +84,12 @@ namespace NorthWind.DATA.Infrastructure
         {
             return dbSet.Where(where).FirstOrDefault<T>();
         }
+
+        public DbRawSqlQuery<T> SQLQuery<T>(string sql, params object[] parameters)
+        {
+            return dataContext.Database.SqlQuery<T>(sql, parameters);
+        }
+
         #endregion
     }
 }

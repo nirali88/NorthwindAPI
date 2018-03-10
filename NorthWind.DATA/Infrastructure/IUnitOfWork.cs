@@ -9,5 +9,6 @@ namespace NorthWind.DATA.Infrastructure
     public interface IUnitOfWork
     {
         void Commit();
+        IEnumerable<T> SQLQuery<T>(string sql, params object[] parameters);
     }
 }
