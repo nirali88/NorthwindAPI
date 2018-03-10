@@ -39,7 +39,7 @@ namespace NorthWindWebAPI.Controllers
             }
             catch (Exception ex)
             {
-                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetAll ");
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetCustomerNamesByCountry ");
             }
         }
 
@@ -61,7 +61,7 @@ namespace NorthWindWebAPI.Controllers
             }
             catch (Exception ex)
             {
-                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetAll ");
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetCustomersByCountry ");
             }
         }
 
@@ -83,7 +83,7 @@ namespace NorthWindWebAPI.Controllers
             }
             catch (Exception ex)
             {
-                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetAll ");
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetOrdersByCountry ");
             }
         }
 
@@ -105,7 +105,7 @@ namespace NorthWindWebAPI.Controllers
             }
             catch (Exception ex)
             {
-                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetAll ");
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetRevenuesByCountry ");
             }
         }
 
@@ -127,7 +127,7 @@ namespace NorthWindWebAPI.Controllers
             }
             catch (Exception ex)
             {
-                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetAll ");
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error occured during processing GetSalesByCountry ");
             }
         }
     }
