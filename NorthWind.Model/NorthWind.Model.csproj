@@ -54,6 +54,7 @@
     <Compile Include="Customer.cs" />
     <Compile Include="CustomerDemographic.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeDetail.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Order_Detail.cs" />
     <Compile Include="Product.cs" />
@@ -62,6 +63,7 @@
     <Compile Include="Shipper.cs" />
     <Compile Include="Supplier.cs" />
     <Compile Include="sysdiagram.cs" />
+    <Compile Include="TeamMembers.cs" />
     <Compile Include="Territory.cs" />
   </ItemGroup>
   <ItemGroup>

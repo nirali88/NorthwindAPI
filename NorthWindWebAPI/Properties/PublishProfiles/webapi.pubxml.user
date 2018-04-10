@@ -100,16 +100,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/03/2014 20:33:56</publishTime>
     </File>
     <File Include="bin/NorthWind.DATA.dll">
-      <publishTime>03/08/2018 22:13:21</publishTime>
+      <publishTime>04/08/2018 11:49:04</publishTime>
     </File>
     <File Include="bin/NorthWind.Model.dll">
-      <publishTime>03/08/2018 22:13:20</publishTime>
+      <publishTime>04/08/2018 09:48:56</publishTime>
     </File>
     <File Include="bin/NorthWind.Service.dll">
-      <publishTime>03/08/2018 22:13:21</publishTime>
+      <publishTime>04/08/2018 11:49:12</publishTime>
     </File>
     <File Include="bin/NorthWindWebAPI.dll">
-      <publishTime>03/08/2018 22:13:36</publishTime>
+      <publishTime>04/08/2018 11:49:42</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>06/18/2015 20:19:46</publishTime>

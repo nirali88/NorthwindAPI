@@ -33,6 +33,14 @@ namespace NorthWindWebAPI.Mappings
 
             #endregion
 
+
+            //#region Employees Mappings
+
+            //CreateMap<Employee, TeamMembersVM>()
+            //    .ForMember(d => d.FullName, opt => opt.MapFrom(src => src.FirstName + " " + src.LastName));
+
+
+            //#endregion
         }
         public override string ProfileName
         {

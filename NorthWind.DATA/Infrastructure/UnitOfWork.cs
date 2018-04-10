@@ -30,6 +30,8 @@ namespace NorthWind.DATA.Infrastructure
 
         public IEnumerable<T> SQLQuery<T>(string sql, params object[] parameters)
         {
+            if (parameters == null)
+                return dbContext.Database.SqlQuery<T>(sql);
             return dbContext.Database.SqlQuery<T>(sql, parameters);
         }
     }

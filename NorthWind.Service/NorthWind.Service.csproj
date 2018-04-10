@@ -46,6 +46,7 @@
     <Compile Include="SupplierService.cs" />
     <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TeamEffService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\NorthWind.DATA\NorthWind.DATA.csproj">

@@ -52,7 +52,7 @@ namespace NorthWind.Service
 
         public IEnumerable<string> GetRevenuesByCountry(string country, DateTime startDate, DateTime endDate)
         {
-            return unitOfWork.SQLQuery<string>("EXEC GetOrdersByCountry @Country,@StartDate,@EndDate",
+            return unitOfWork.SQLQuery<string>("EXEC GetRevenuesByCountry @Country,@StartDate,@EndDate",
                new SqlParameter("Country", SqlDbType.VarChar) { Value = country },
                new SqlParameter("StartDate", SqlDbType.DateTime) { Value = startDate },
                new SqlParameter("EndDate", SqlDbType.DateTime) { Value = endDate });
